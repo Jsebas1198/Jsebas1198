@@ -7,7 +7,9 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/www.linkedin.com/in/juanfernandezsaez" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/juanfernandezsaez" height="30" width="40" /></a>
+
+<a href="https://www.linkedin.com/in/juanfernandezsaez" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="juanfernandezsaez" height="30" width="40" /></a>
+<a href="https://app.codesignal.com/profile/jsebas1198" target="blank"><img align="center" src="https://theme.zdassets.com/theme_assets/9544451/819d1437d9720cdda12f0b37c8d88f3be2504ab0.png" alt="jsebas1198" height="30" width="40" /></a>
 <a href="https://instagram.com/jsebas_98" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="jsebas_98" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/jsebas1198" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="jsebas1198" height="30" width="40" /></a>
 </p>
@@ -18,4 +20,3 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=jsebas1198&show_icons=true&locale=en&layout=compact" alt="jsebas1198" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=jsebas1198&show_icons=true&locale=en" alt="jsebas1198" /></p>
-
