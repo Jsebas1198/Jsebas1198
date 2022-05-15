@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Juan Sebastian Fernandez</h1>
+<h1 align="center">Hi 👋, I am Juan Sebastian Fernandez</h1>
 <h3 align="center">A passionate Web 3.0 developer, currently in Paraguay</h3>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=jsebas1198" alt="jsebas1198" /></a> </p>
